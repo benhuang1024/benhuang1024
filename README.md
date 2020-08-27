@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **benhuang1024/benhuang1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
